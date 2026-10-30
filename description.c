@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-int main(){
-	printf("this is description.c");
+int function(){
+	printf("nononononononononononono");
+	printf("nononononononononononono");
+	printf("this is description.c version 2");
 	return 0;
 }
